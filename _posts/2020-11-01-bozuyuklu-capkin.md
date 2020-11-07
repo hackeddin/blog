@@ -5,12 +5,7 @@ date:   2020-11-01 17:06:25
 
 ---
 
----
-layout: post
-title:  "Bozüyüklü Çapkın"
-date:   2020-11-01 17:06:25
-categories: instagram
----
+
 
 ## Bozüyüklü Çapkın!
 
