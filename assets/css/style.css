@@ -287,5 +287,12 @@ img.center {
 	font-size: 65%;
 }
 .post-content img{ 
-max-width:250px !important; max-height:165px !important; height:auto; vertical-align:baseline; border:3px solid #f2f2f2; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; 
+max-width:250px !important; 
+max-height:165px !important; 
+height:auto; 
+vertical-align:baseline; 
+border:3px solid #f2f2f2; 
+-webkit-border-radius: 5px; 
+-moz-border-radius: 5px; 
+border-radius: 5px; 
 }
