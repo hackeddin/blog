@@ -1,0 +1,53 @@
+
+---
+layout: post
+title:  "Bakış Açısı"
+date:   2020-11-01 17:06:25
+
+---
+yazının sonunda yazının başında olması gereken gereksiz detayları bulabilirsiniz. yazıdaki tekniğin inanılmaz bir şekilde işe yaradığını görmek istiyorsanız yazıyı okuduktan sonra anlık olarak konuştuğunuz kişide deneyebilirsiniz o esnada en son sizinle sohbet ettiği için direkt size gönderme ihtimali çok yüksek.(denendi onaylandı)
+  
+2 ay kadar önce gittiğim bi eğitimde tanıştığım birisiydi bu sude. seneler bilgisayar başında asosyal şekilde geçince sosyal becerilerimiz mesleki deformasyona uğruyor insanlarla tanışma ve iletişim şeklimizde bir takım farklılıklar meydana geliyor haliyle kızın gelip masumca sorduğu bir soruya ters cevap verip kırıcı olabiliyoruz bende biraz kırıcı olmuşum sudeye karşı neyse aradan biraz zaman geçince eğitimdeki diğer kişilerle sohbetimiz ilerledi ve artık eğitim çıkışları bi yerlere takılmaya başladık o süreç içinde numaralarını kaydettiğim için instagramda önerilenlerde sürekli sudeyi görüyordum takip etmeye karar verdim ama egomdan ötürü “ya takibime geri dönmezse” diye düşünmeye başladım ve haliyle etkileyici bi giriş yapmak istedim bu yüzden takip etmedim biraz düşündükten sonra aklıma çeşitli yöntemler geldi bir tanesi hariç hepsi senelerdir kullanılan şeylerdi ve o taktik sayesinde yakın çevremin instagramına çöktüm.
+
+Taktik şöyle çalışıyor instagram üzerinde böyle bir parolamı unuttum sayfası var eğer siz buraya kullanıcı adı veya email yazarsanız parola sıfırlama bağlantısını maile gönderiyor ve bu bizim istemediğimiz bir şey ama eğer siz buraya bir cep telefonu yazarsanız sms olarak gönderiyor ve bunun limiti 10-11 falan arkaarkaya pat pat gönderebiliyorsunuz
+
+![img](https://hackeddin.com/bakis-acisi/0.jpeg)
+
+Bende bu testi ilk olarak mahalleden arkadaşım olan Sude üzerinde denedim (eğitimdeki değil)
+
+![img](https://hackeddin.com/bakis-acisi/1.jpeg)
+
+ve ekran görüntüsünü alıp bana gönderdi hadi bunun kafası basmıyodur falan diye düşündüm ve başka birinde denedim
+
+![img](https://hackeddin.com/bakis-acisi/2.jpeg)
+
+Diğer kişide yine başarıyla sonuçlandı. Her bu tarz sorun yaşadığında bana gelecek 3-5 kişyie daha attım ve hepsinde sonuç aynı oldu. Sude yaptığım işi biliyordu haliyle onunda bu tarz bi sorunda bana geleceğini düşünerek kendisine gönderdim ama düşmedi ikinci gün tekrar gönderdim yine düşmedi üçüncü gün eğitim çıkışı bi yerlere takılalım dedik gittiğimiz kafede arkadaşıma 5 dakika sonra bu numaraya parolamı unuttum isteklerinden atmasını söyledim bende o süreçte ortamla muhabbete başladım telefonumuda kenarıya koydum gelen smslerde benden şüphelenmesin diye cep telefonum elimde olmadığı için benden şüphelenmeyecekti önceki günlerde genelde aynı saatlerde göndermiştim
+
+tam biz konuşurken telefonuna smsler gelince dünyalar tatlısı sude ile aramızda şöyle bi diyalog yaşandı
+
++“Ya Hackeddin bana bi kaç gündür facebookta sms geliyor ama ben facebook hesabımı kapattım bir bakarmısın”
+
+-“Oha sakın bunlara tıkladım deme (eğer tıklarsa expired olacak) hesabını çalmaya çalışıyor olabilir birisi ben bunun bi fotoğrafını çekeyim sana haber edeceğim”
+
+dedim ve bu çektiğim fotoğraf sayesinde parola yenileme linkine ulaşabildim bu tekniğin uğraştıran tek yanı linkin fotoğrafını çektiğiniz için Il1 gibi karakterler karışıyor ve elle tek tek eleyerek denemeniz gerekebiliyor ama bu yazı tipinden yazı tipine geçer. Bu taktiğim güzel yanı 2FA varsa onu istemeden açıyor çünkü direk telefona gelen bağlantı üzerinden parola sıfırlamış oluyorsunuz. ama ben sudeye kıyamadım kıza anlattığımda etkilenip “oha çok zekice hemen takip etmeliyim ve konuşmaya başlamalıyız” tepkisi beklerken kız öyle bir korktu ve üzüldüki bu saatten sonra günahını bile vermez. Ve bu taktiğin en komik yanı ise ilk okul arkadaşımın bu bağlantıyı direkt ekran görüntüsü alıp sosyal medyada story atması oldu.
+
+Bu tekniğin aynısını isterseniz whatsapp isterseniz telegram isterseniz snapchat farketmez her yerde uygulayabilir ve karşıdaki kişinin hesabını kendi elleriyle size teslim temesini sağlayabilirsiniz.
+
+![img](https://hackeddin.com/bakis-acisi/3.jpeg)  
+![img](https://hackeddin.com/bakis-acisi/4.jpeg)
+
+
+
+# yazının başı olması gereken sonu
+bu yazıda yaklaşık 2 sene önce güzel bir hanımefendinin instagram hesabını alabilmek için çıktığım yolda yakın arkadaşlarımın hesaplarını nasıl aldığıma değineceğim bu yazının sonunda öğreneceğiniz bu teknik ile sadece instagram değil isterseniz whatsapp, facebook, snapchat gibi platformlarınıdaki hesabı sadece bakış açısı değiştirerek nasıl alabileceğinizi öğreneceksiniz ama daha önemlisi bakış açınızı biraz değiştirdiğinizde alışılagelmişin dışında bir harekette bulunduğunuzda elde edebileceklerinizin ne kadar kıymetli şeyler olduğuna şahit olacaksınız. konuya yönelik bir kaç söz koyuyorum buraya
+
+> Saldırgan, hedefini, aslında var olmayan bir sorunu olduğuna
+> inandırarak kendi ağına düşürür. Sorun, bu olayda olduğu gibi, henüz
+> gerçekleşmemiş ama saldırganın gerçekleşeceğini bildiği çünkü
+> kendisinin neden olacağı bir sorun da olabilir. Sonra da kendisini
+> sorunu çözebilecek kişi olarak tanıtır - Kevin Mitnick
+> 
+
+> Temel şart, psikolojik kurallara dayalı istemsiz bir tepkiyi tetiklemek ve arayanı bir müttefik olarak gördükleri zaman insanların zihinlerinde oluşan kısa yollara güvenmektir.  -Kevin Mitnick
+
+
