@@ -70,42 +70,34 @@ Kabaca bilgiler bunlardı ve bunlarda benim için yeterde artar modundaydı. ark
 
 {
    "sender":"gozunaydin95",
-   "created_at":"2020-05-13T06:25:10.796615+00:00",
    "text":"Nasıl dersen öyle olsun"
 },
 {
    "sender":"__deleted__bhiebecigffccbbic",
-   "created_at":"2020-05-13T06:24:48.476135+00:00",
    "text":"Sende olsa da içim rahat etmedi"
 },
 {
    "sender":"gozunaydin95",
-   "created_at":"2020-05-13T06:24:37.329652+00:00",
    "text":"Ama nasıl istersen öyle olsun"
 },
 {
    "sender":"gozunaydin95",
-   "created_at":"2020-05-13T06:24:29.718683+00:00",
    "text":"Onlar bende bitanem kimse göremez"
 },
 {
    "sender":"gozunaydin95",
-   "created_at":"2020-05-13T06:24:14.019979+00:00",
    "text":"Nasıl istersen"
 },
 {
    "sender":"__deleted__bhiebecigffccbbic",
-   "created_at":"2020-05-13T06:24:13.402382+00:00",
    "text":"Daha önce adımla ss almışsın rahatsız oldum"
 },
 {
    "sender":"__deleted__bhiebecigffccbbic",
-   "created_at":"2020-05-13T06:23:48.837243+00:00",
    "text":"Mısın"
 },
 {
    "sender":"__deleted__bhiebecigffccbbic",
-   "created_at":"2020-05-13T06:23:46.323942+00:00",
    "text":"Buradan yazar musun"
 }
 ]
@@ -120,137 +112,110 @@ diğeri
 
 {
    "sender":"gozunaydin95",
-   "created_at":"2020-05-16T12:56:33.036722+00:00",
    "text":"Naparsan yap"
 },
 {
    "sender":"__deleted__bhiebecigffccbbic",
-   "created_at":"2020-05-16T12:56:21.946740+00:00",
    "text":"He gerikafalıyım"
 },
 {
    "sender":"gozunaydin95",
-   "created_at":"2020-05-16T12:55:18.780396+00:00",
    "text":"Sana laf anlatmıcam gerikafalı sın"
 },
 {
    "sender":"gozunaydin95",
-   "created_at":"2020-05-16T12:55:07.925057+00:00",
    "text":"Sanki varya"
 },
 {
    "sender":"gozunaydin95",
-   "created_at":"2020-05-16T12:54:59.382931+00:00",
    "text":"Yarın obur gün ayrılcanız"
 },
 {
    "sender":"gozunaydin95",
-   "created_at":"2020-05-16T12:54:47.127181+00:00",
    "text":"Saçmalama sende be"
 },
 {
    "sender":"__deleted__bhiebecigffccbbic",
-   "created_at":"2020-05-16T12:54:36.134545+00:00",
    "text":"Kocama ihanet ediyor gibi hissediyorum seninle konuşunca"
 },
 {
    "sender":"gozunaydin95",
-   "created_at":"2020-05-16T12:54:03.098373+00:00",
    "text":"Düşün"
 },
 {
    "sender":"gozunaydin95",
-   "created_at":"2020-05-16T12:53:55.721736+00:00",
    "text":"Fotoğrafları silicem beni bugün Boşaltırsan"
 },
 {
    "sender":"__deleted__bhiebecigffccbbic",
-   "created_at":"2020-05-16T12:53:39.274375+00:00",
    "text":"Hayır"
 },
 {
    "sender":"gozunaydin95",
-   "created_at":"2020-05-16T12:53:05.183268+00:00",
    "text":"Etmicek misın"
 },
 {
    "sender":"gozunaydin95",
-   "created_at":"2020-05-16T12:52:17.274663+00:00",
    "text":"Yardım et"
 },
 {
    "sender":"gozunaydin95",
-   "created_at":"2020-05-16T12:52:14.284631+00:00",
    "text":"Hadi"
 },
 {
    "sender":"__deleted__bhiebecigffccbbic",
-   "created_at":"2020-05-16T12:52:06.315016+00:00",
    "text":"Geçemem odama"
 },
 {
    "sender":"gozunaydin95",
-   "created_at":"2020-05-16T12:50:55.233817+00:00",
    "text":"Lütfen hızlı yaz çıkma odana geç"
 },
 {
    "sender":"gozunaydin95",
-   "created_at":"2020-05-16T12:49:41.502103+00:00",
    "text":"Ya hadi bıtanem"
 },
 {
    "sender":"__deleted__bhiebecigffccbbic",
-   "created_at":"2020-05-16T12:49:35.221156+00:00",
    "text":"Ya"
 },
 {
    "sender":"__deleted__bhiebecigffccbbic",
-   "created_at":"2020-05-16T12:49:34.057741+00:00",
    "text":"Yuh ay"
 },
 {
    "sender":"__deleted__bhiebecigffccbbic",
-   "created_at":"2020-05-16T12:49:31.127491+00:00",
    "text":"Alt tarafı mı"
 },
 {
    "sender":"gozunaydin95",
-   "created_at":"2020-05-16T12:49:20.949836+00:00",
    "text":"Off lama boşalcaz alt tarafı"
 },
 {
    "sender":"__deleted__bhiebecigffccbbic",
-   "created_at":"2020-05-16T12:49:02.045985+00:00",
    "text":"Off"
 },
 {
    "sender":"gozunaydin95",
-   "created_at":"2020-05-16T12:48:50.256609+00:00",
    "text":"Hadi"
 },
 {
    "sender":"gozunaydin95",
-   "created_at":"2020-05-16T12:48:47.088897+00:00",
    "text":"Çok fenayım"
 },
 {
    "sender":"gozunaydin95",
-   "created_at":"2020-05-16T12:48:42.977763+00:00",
    "text":"Yeterki ilgilen"
 },
 {
    "sender":"gozunaydin95",
-   "created_at":"2020-05-16T12:48:22.793061+00:00",
    "text":"Söz"
 },
 {
    "sender":"gozunaydin95",
-   "created_at":"2020-05-16T12:48:17.076777+00:00",
    "text":"Sen beni bugün foto ve mesajla boşalt herşeyi silcem"
 },
 {
    "sender":"__deleted__bhiebecigffccbbic",
-   "created_at":"2020-05-16T12:47:56.464813+00:00",
    "text":"Sil fotolarımı 🤣"
 }
 ```
