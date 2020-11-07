@@ -2,13 +2,12 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: bilgi
     url: false
     entries:
       - title: hackeddin@protonmail.com
-        url: false
-      - title: mail
-      
+      - title: "no manita no dirdir hackliyoruz fildir fildir"
+
   - title: yazilar
     post_list: true
     url: false
