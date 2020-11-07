@@ -66,7 +66,7 @@ Kabaca bilgiler bunlardı ve bunlarda benim için yeterde artar modundaydı. ark
 
 
 
-{% highlight json %} 
+```
 
 {
    "sender":"gozunaydin95",
@@ -114,9 +114,9 @@ Kabaca bilgiler bunlardı ve bunlarda benim için yeterde artar modundaydı. ark
 
 
 
-{% endhighlight %}
+```
 diğeri
-{% highlight json %} 
+```
 
 {
    "sender":"gozunaydin95",
@@ -253,7 +253,7 @@ diğeri
    "created_at":"2020-05-16T12:47:56.464813+00:00",
    "text":"Sil fotolarımı 🤣"
 }
-{% endhighlight %}
+```
 
 
 
