@@ -1,16 +1,16 @@
 entries:
-  - title: info
+  - title: bilgi
     url: false
     entries:
       - title: losing my religion.
         url: false
       - title: hackeddin@protonmail.com
         url: false
+      - title: hackeddin?
+        url: /hackeddin/
 
   - title: yazilar, isyanlar, tripler 
     post_list: true
     url: false
     entries: false
     
-    - title: hackeddin?
-      url: /hackeddin/
