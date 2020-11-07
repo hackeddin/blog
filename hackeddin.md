@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: page
 title: hackeddin
 ---
 
 Hackeddin, varoluşsal sancılar içerisinde olan derealizasyon yaşayan yüksek işlevli anksiyete ile mücadelesi hiç bitmeyen bütün hayatı hayal kırıklığından ibaret bir hayali karakterdir. içeriklerin hepsi bu hayali karakterin sürekli "acaba bu gerçekmi yoksa hayalmi?" diye düşündüğü bazı isyankarlıklardır. ciddiye alınız ama dava etmeyiniz.
 
-
+<pre>
 artık büyüdün, sen birey oldun
 duygu düşüncelerin daha yalnız
 sisteme göre kendi nickini buldun
@@ -30,3 +30,4 @@ baksana yarın bu güneş yine doğacak
 tebrik et her tarafın örülmüştür
 inançlarına göre bi sitemin olacak
 sen daha yazmadan o görülmüştür 
+</pre>
