@@ -259,7 +259,13 @@ img.center {
   font-weight: normal;
   font-style: normal;
 }
-
+.hsground {
+    z-index: 9999;
+    position: fixed;
+    _position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
 [class^="icon-"]:before, [class*=" icon-"]:before {
   font-family: "solarthemeicons";
   font-style: normal;
