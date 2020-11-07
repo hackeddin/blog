@@ -1,16 +1,16 @@
-# For documentation on this file, see:
-# https://github.com/riggraz/no-style-please#customize-the-menu
-
 entries:
-  - title: bilgi
+  - title: info
     url: false
     entries:
-      -url: false
+      - title: losing my religion.
+        url: false
       - title: hackeddin@protonmail.com
-      - title: "farkli bakiyoruz"
-  - title: yazilar
+        url: false
+
+  - title: yazilar, isyanlar, tripler 
     post_list: true
     url: false
     entries: false
-
-  
+    
+    - title: hackeddin?
+    url: /hackeddin/
