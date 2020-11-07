@@ -257,14 +257,16 @@ diğeri
 
 
 
-text yazan kısımlara dikkat ederseniz açıkca görebilirsiniz şahsi düşüncem ikiside iğrenç insanlar ama yinede kadının evli ve zor durumda olduğunu düşünürsek bu duruma el atmam gerekiyordu lavuğun hesabını silmedim son konuştuğu kıza durumu özetleyip kendi numaramı verdim kızla olan konuşmalarımı sildim benim arkadaşım dışında yazdığı tek bir kişi daha vardı ona G diyeceğim sohbetin ilerleyen kısımlarda ben alacağım tüm bilgileri aldıktan sonra aşko diyen kıza durumu anlattım yattım uyudum sabah 2 gibi uyandım baktım yabancı bir numara aramış hemen geri aradım G ile görüşüyordum her şeyi konuştuk ve bir kaç saat sonra kız bana sapığın hem videosunu hem kimlik fotoğraflarını alıp gönderdi bu kısımlarda cep telefonumun arızalanması ve formatlamamdan dolayı kızla olan konşmaların ekran görüntüsü yok kızın profilinden ekran görüntüsü var
+
+text yazan kısımlara dikkat ederseniz açıkca görebilirsiniz şahsi düşüncem ikiside iğrenç insanlar ama yinede kadının evli ve zor durumda olduğunu düşünürsek bu duruma el atmam gerekiyordu lavuğun hesabını silmedim son konuştuğu kıza durumu özetleyip kendi numaramı verdim kızla olan konuşmalarımı sildim benim arkadaşım dışında yazdığı tek bir kişi daha vardı ona G diyeceğim sohbetin ilerleyen kısımlarda ben alacağım tüm bilgileri aldıktan sonra aşko diyen kıza durumu anlattım yattım uyudum sabah 2 gibi uyandım baktım yabancı bir numara aramış hemen geri aradım G ile görüşüyordum her şeyi konuştuk ve bir kaç saat sonra kız bana sapığın hem videosunu hem kimlik fotoğraflarını alıp gönderdi bu kısımlarda cep telefonumun arızalanması ve formatlamamdan dolayı kızla olan konşmaların ekran görüntüsü yok. kısaca çocuk kızın güvenini kazanmak için kıza hem kamera açtı hem kimliğinin fotoğrafını gönderdi.
 
 ![14](https://hackeddin.com/bozuyuklu-capkin/14.jpg)
 
 
 
-Çocuğun adı İlker Gürsel kendisini kanıtlamak için kıza göndermediği bilgi kalmadı. 
+Çocuğun adı İlker Gürsel kendisini blog sitemizin ilk fişlenen sapığı ilan ediyorum.
 
 konuşmaların hepsini ve instagram backup'ını isteyen arkadaşlar mail gönderebilirler.
 
 hackeddin@protonmail.com
+
