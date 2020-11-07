@@ -5,9 +5,9 @@ entries:
   - title: bilgi
     url: false
     entries:
+      -url: false
       - title: hackeddin@protonmail.com
-      - title: "Beyninize yeni bir kapı açacak, size bir değer katacak insanla bir araya geldiğinizde; bir şey öğrenirsiniz, bir şey düşünürsünüz, yeni bir yere bakmaya başlarsınız. Düşünceniz yeni bir boyut kazanır, yaşamınıza farklı bir bakış açısı eklenir."
-
+      - title: "farkli bakiyoruz"
   - title: yazilar
     post_list: true
     url: false
