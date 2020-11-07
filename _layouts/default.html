@@ -1,71 +1,15 @@
 <!DOCTYPE html>
-<html>
-<head>
+<html lang="{{ page.lang | default: "en" }}">
+        {%- include head.html -%}
+    <body a="{{ site.theme_config.appearance | default: "auto" }}">
+    <main class="page-content" aria-label="Content">
+        <div class="w">
+            {{ content }}
+        </div>
+    </main>
 
-  <meta charset="UTF-8">
-  <title>{{ page.title }}</title>
-  <meta name="viewport" content="width=device-width">
-
-  <!--[if lt IE 9]>
-    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
-
-  <link href="/assets/css/style.css" rel="stylesheet" />
-  <link href="/assets/css/colors-dark.css" rel="stylesheet" />
-
-</head>
-
-<body>
-
-
-
-  <header id="header">
-    <h1><a href="/"><i class="icon-sun"></i> {{ site.name }}</a></h1>
-    <p>{{ site.description }}</p>
-  </header>
-
-
-
-  <div id="page">
-
-
-
-    <div id="sidebar">
-      <nav>
-        <ul>
-          <li><a href="/">Home</a></li>
-          <li><a href="/archives">Archive</a></li>
-        </ul>
-      </nav>
-    </div>
-
-
-
-    <div id="content">
-      {{ content }}
-    </div>
-
-
-
-  </div>
-
-
-
-  <footer id="footer">
-    <p class="copyright">Copyright &copy; {{ site.time | date: '%Y' }} {{ site.name }}. Powered by <a href="https://bakirkoyruhsinireah.saglik.gov.tr/">Bakırkoy Ruh ve Sinir Hastaliklari</a> </p>
-  </footer>
-
-
-
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-  <script src="/assets/js/jquery.mobilemenu.min.js"></script>
-
-  <script>
-    $(document).ready(function(){
-      $('#sidebar nav ul').mobileMenu({'topOptionText': 'Menu', 'prependTo': '#sidebar nav'});
-    });
-  </script>
-
-
-</body>
+    {% if site.goat_counter and jekyll.environment == "production" %}
+        {% include goat_counter.html %}
+    {% endif %}
+    </body>
 </html>
