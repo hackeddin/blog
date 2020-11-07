@@ -2,8 +2,14 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  
-  - title: thoughts
+  - title: info
+    url: false
+    entries:
+      - title: hackeddin@protonmail.com
+        url: false
+      - title: mail
+      
+  - title: yazilar
     post_list: true
     url: false
     entries: false
