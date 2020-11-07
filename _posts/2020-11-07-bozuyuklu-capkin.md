@@ -22,29 +22,29 @@ tabii kızın kanka diye başlayan ve yardım edeceğimi belirttiğimde aşkoya 
 
 belirttiğim ihtimallerdi bu durumda hesaba parolamı unuttum yapıp oradan çıkan cep telefonu son 2 hanesi ile rehberdeki numaraları karşılaştırmak olacaktı bu deneme başarısız olunca öyle kala kaldım arkadaşlar bugüne kadar beni yarı yolda bırakmayan bu teknik yarı yolda bırakmıştı anksiyete ve mide ağrısının yavaş yavaş tekrar başladığını hissetmiştim kız ile hesabın arasındaki görüşmeleri şöyle sizlerle paylaşayım
 
-<img src="https://hackeddin.com/bozuyuklu-capkin/1.jpg" alt="11" style="width:80%;" />
+<img src="https://hackeddin.com/bozuyuklu-capkin/1.jpg" alt="11"  />
 
-<img src="https://hackeddin.com/bozuyuklu-capkin/2.jpg" alt="12" style="width:80%;" />
+<img src="https://hackeddin.com/bozuyuklu-capkin/2.jpg" alt="12"  />
 
-<img src="https://hackeddin.com/bozuyuklu-capkin/3.jpg" alt="10" style="width:80%;" />
+<img src="https://hackeddin.com/bozuyuklu-capkin/3.jpg" alt="10"  />
 
-<img src="https://hackeddin.com/bozuyuklu-capkin/4.jpg" alt="9" style="width:80%;" />
+<img src="https://hackeddin.com/bozuyuklu-capkin/4.jpg" alt="9"  />
 
-<img src="https://hackeddin.com/bozuyuklu-capkin/5.jpg" alt="8" style="width:80%;" />
+<img src="https://hackeddin.com/bozuyuklu-capkin/5.jpg" alt="8"  />
 
-<img src="https://hackeddin.com/bozuyuklu-capkin/6.jpg" alt="7" style="width:80%;" />
+<img src="https://hackeddin.com/bozuyuklu-capkin/6.jpg" alt="7"  />
 
-<img src="https://hackeddin.com/bozuyuklu-capkin/7.jpg" alt="6" style="width:80%;" />
+<img src="https://hackeddin.com/bozuyuklu-capkin/7.jpg" alt="6"  />
 
-<img src="https://hackeddin.com/bozuyuklu-capkin/8.jpg" alt="5" style="width:80%;" />
+<img src="https://hackeddin.com/bozuyuklu-capkin/8.jpg" alt="5"  />
 
-<img src="https://hackeddin.com/bozuyuklu-capkin/9.jpg" alt="4" style="width:80%;" />
+<img src="https://hackeddin.com/bozuyuklu-capkin/9.jpg" alt="4"  />
 
-<img src="https://hackeddin.com/bozuyuklu-capkin/10.jpg" alt="3" style="width:80%;" />
+<img src="https://hackeddin.com/bozuyuklu-capkin/10.jpg" alt="3"  />
 
-<img src="https://hackeddin.com/bozuyuklu-capkin/11.jpg" alt="2" style="width:80%;" />
+<img src="https://hackeddin.com/bozuyuklu-capkin/11.jpg" alt="2"  />
 
-<img src="https://hackeddin.com/bozuyuklu-capkin/12.jpg" alt="1" style="width:80%;" />
+<img src="https://hackeddin.com/bozuyuklu-capkin/12.jpg" alt="1"  />
 
 bütün konuşmalar bunlardan ibaretti burada eğer kim olduğunu gerçekten merak ediyorsa kızın yapması gereken şey konuşmaya devam eedip ve yazım şeklinden , kullandığı emojilerden kim olduğunu anlamaya çalışması olacaktı. tam işten vazgeçmek üzereyken hesaba parolamı unuttum yaptığımda çıkan mailin kullanıcı adı ile aynı olabileceği ihtimalini düşündüm ve bu ihtimali bana düşündürten tek şey kızın bana "aşko" demesiydi muhtemelen
 
