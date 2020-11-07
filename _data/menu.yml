@@ -7,7 +7,7 @@ entries:
       - title: hackeddin@protonmail.com
         url: false
       - title: hackeddin?
-        url: /hackeddin/
+        url: /hackeddin.html
 
   - title: yazilar, isyanlar, tripler 
     post_list: true
