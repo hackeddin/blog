@@ -46,7 +46,7 @@ belirttiğim ihtimallerdi bu durumda hesaba parolamı unuttum yapıp oradan çı
 
 <img src="https://hackeddin.com/bozuyuklu-capkin/12.jpg" alt="1"  />
 
-bütün konuşmalar bunlardan ibaretti burada eğer kim olduğunu gerçekten merak ediyorsa kızın yapması gereken şey konuşmaya devam eedip ve yazım şeklinden , kullandığı emojilerden kim olduğunu anlamaya çalışması olacaktı. tam işten vazgeçmek üzereyken hesaba parolamı unuttum yaptığımda çıkan mailin kullanıcı adı ile aynı olabileceği ihtimalini düşündüm ve bu ihtimali bana düşündürten tek şey kızın bana "aşko" demesiydi muhtemelen
+bütün konuşmalar bunlardan ibaretti burada eğer kim olduğunu gerçekten merak ediyorsa kızın yapması gereken şey konuşmaya devam eedip ve yazım şeklinden , kullandığı emojilerden kim olduğunu anlamaya çalışması olacaktı. tam işten vazgeçmek üzereyken hesaba parolamı unuttum yaptığımda çıkan mailin (parolamı unuttum yaptığımda gözüken mail g.....5@g.....m idi buradan mailin kullanıcı adı ile aynı olma ihtimalini düşünerek hareket ediyorum) kullanıcı adı ile aynı olabileceği ihtimalini düşündüm ve bu ihtimali bana düşündürten tek şey kızın bana "aşko" demesiydi muhtemelen
 
 hemen instagram üzerinde 
 
