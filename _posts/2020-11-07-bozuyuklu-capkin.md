@@ -66,8 +66,7 @@ Kabaca bilgiler bunlardı ve bunlarda benim için yeterde artar modundaydı. ark
 
 
 
-```
-
+{% highlight javascript %}
 {
    "sender":"gozunaydin95",
    "text":"Nasıl dersen öyle olsun"
@@ -106,9 +105,10 @@ Kabaca bilgiler bunlardı ve bunlarda benim için yeterde artar modundaydı. ark
 
 
 
-```
+{% endhighlight %}
 diğeri
-```
+{% highlight javascript %}
+
 
 {
    "sender":"gozunaydin95",
@@ -218,7 +218,7 @@ diğeri
    "sender":"__deleted__bhiebecigffccbbic",
    "text":"Sil fotolarımı 🤣"
 }
-```
+{% endhighlight %}
 
 
 
