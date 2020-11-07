@@ -229,7 +229,7 @@ text yazan kısımlara dikkat ederseniz açıkca görebilirsiniz şahsi düşün
 
 
 
-Çocuğun adı İlker Gürsel kendisini blog sitemizin ilk fişlenen sapığı ilan ediyorum.
+Böylelikle bu sapık şerefsizin ipini çektik (devamını anlatmam etik olmaz zaten buraya kadar anlatmamda çok etik değildi yerler o etikliği)
 
 konuşmaların hepsini ve instagram backup'ını isteyen arkadaşlar mail gönderebilirler.
 
