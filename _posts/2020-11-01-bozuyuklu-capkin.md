@@ -13,7 +13,7 @@ Bu paragraf bolca gereksiz detay içermektedir;
 
  Bütün gece uyumadığım ve kafamın gidip gelmeleri yaşadığı yorucu bir sabah üstü (4:30 falan) dağınık, paramparça, sefalet içinde ailemden uzak yaşadığım bir günde bilgisayarı kilitlemiş salona gidip uyumaya çalıştığım ama yüksek anksiyetenin uyumama izin vermediği haleti ruhiye içerisindeyken 2 haftadır atılmamış çöplerin mutfaktan yayılan kokusu son yediğim fastfood türü yemeğin midemin anasını ağlattığı saatlerde cep telefonuma gelen o mesaj (güzel kızlar bana sadece işi düşüncemi mesaj atar??)
 
-<img src="https://hackeddin.com/bozuyuklu-capkin/0.jpg" alt="0" style="zoom: 25%;" />
+<img src="https://hackeddin.com/bozuyuklu-capkin/0.jpg" alt="0" style="width: 80%;" />
 
 tabii kızın kanka diye başlayan ve yardım edeceğimi belirttiğimde aşkoya dönen iletişim hali beni benden aldı ne midemin ağrısı nede anksiyetem yok oldu bir anda o zaman anladım benim içine girdiğim ruhsal bozukluğun adı abazalık belasıymış hayatım boyunca bu işi beklemişim gibi bilgisayar başına koştum ve kızdan detayları istedim bu tarz durumlarla sürekli karşılaştığımdan dolayı biliyorum genelde bu kişiler tanıdık birisi çıkıyor o yüzden aklıma gelen ihtimaller
 
@@ -23,11 +23,8 @@ tabii kızın kanka diye başlayan ve yardım edeceğimi belirttiğimde aşkoya 
 belirttiğim ihtimallerdi bu durumda hesaba parolamı unuttum yapıp oradan çıkan cep telefonu son 2 hanesi ile rehberdeki numaraları karşılaştırmak olacaktı bu deneme başarısız olunca öyle kala kaldım arkadaşlar bugüne kadar beni yarı yolda bırakmayan bu teknik yarı yolda bırakmıştı anksiyete ve mide ağrısının yavaş yavaş tekrar başladığını hissetmiştim kız ile hesabın arasındaki görüşmeleri şöyle sizlerle paylaşayım
 
 <img src="https://hackeddin.com/bozuyuklu-capkin/12.jpg" alt="11" style="width:80%;" />
-
 <img src="https://hackeddin.com/bozuyuklu-capkin/11.jpg" alt="12" style="width:80%;" />
-
 <img src="https://hackeddin.com/bozuyuklu-capkin/10.jpg" alt="10" style="width:80%;" />
-
 <img src="https://hackeddin.com/bozuyuklu-capkin/9.jpg" alt="9" style="width:80%;" />
 
 <img src="https://hackeddin.com/bozuyuklu-capkin/8.jpg" alt="8" style="width:80%;" />
