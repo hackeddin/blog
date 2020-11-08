@@ -29,11 +29,11 @@ Eğer sadece kendi sesinizi klonlamayı denemek istiyorsanız https://www.resemb
 Bu örnekte **respeecher**  projesi ile bir ses kaydının obamaya okutulduğunu görebilirsiniz
 
 <audio class="audio-player1" controls="" volume="0.1">
-        <source src="https://hackeddin.com/elifin-ölümü/1.mp3" type="audio/mpeg">
+        <source src="https://hackeddin.com/elifin-ölümü/ses1.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
 <audio class="audio-player1" controls="" volume="0.1">
-        <source src="https://hackeddin.com/elifin-ölümü/2.mp3" type="audio/mpeg">
+        <source src="https://hackeddin.com/elifin-ölümü/ses2.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
 Ayrıca araştırmalarımda şu şekilde Türkçe bir araştırmayada denk geldim
@@ -57,7 +57,7 @@ http://web.boun.edu.tr/arslanle/
 
 ### Telefon Numarası Kopyalama (Caller ID Spoofing)
 
-Yılların taktiği olan bu tekniğe "Caller ID Spoofing" deniliyor üzerine biraz araştırma yapınca bu hizmeti sağlayan voip servislerine ulaşmak çokta zor değil ben uzun süredir çokca keyifli işler için kullanıyorum hali hazırda elimde mevcut. bir çoğu dolandırıcı olduğundan paranızı kaptırmak istemezseniz mail gönderirseniz size nasıl dolandırılmadan bu sistemi kendinize kurabileceğinizi anlatırım..
+Yılların taktiği olan bu tekniğe "Caller ID Spoofing" deniliyor arkaplanda yaptığı işlem arama yaparken giden isteğin içindeki numara bilgisini bizim verdiğimiz ile değiştirmesi. Üzerine biraz araştırma yapınca bu hizmeti sağlayan voip servislerine ulaşmak çokta zor değil ben uzun süredir çokca keyifli işler için kullanıyorum hali hazırda elimde mevcut bir çoğu dolandırıcı olduğundan paranızı kaptırmak istemezseniz mail gönderirseniz size nasıl dolandırılmadan bu sistemi kendinize kurabileceğinizi anlatırım..
 
 Bu tarz voip sistemlerinin arayüzü genellikle şuna yakındır bu ekran görüntüleri  https://www.spoofcard.com sitesine ait
 
