@@ -67,7 +67,7 @@ Bu tarz voip sistemlerinin arayüzü genellikle şuna yakındır bu ekran görü
 
 Fakat spoofcard Türkiyede çalışmadığı için ben farklı bir sistem kullanıyorum benim kullandığım arayüz altta gördüğünüz kadar
 
-![1](https://hackeddin.com/elifin-ölümü/5.png)
+![1](https://hackeddin.com/elifin-ölümü/5.2.png)
 
 Buraya kendimi aramak istediğim numarayı yazıp daha sonrasında kendime çağrı gönderdiğimde belirlemiş olduğum numara üzerinden kendimi arayabildim.
 
